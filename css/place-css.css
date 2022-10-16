@@ -1,0 +1,40 @@
+h1 {
+  text-decoration: underline;
+  text-align: center;
+  color: #077C61;
+}
+
+h3 {
+  color: #077C61;
+}
+
+body {
+  background-color: #111111;
+  color: #707A7E;
+  width: 800px;
+  margin: 0 auto;
+}
+
+div.container {
+  text-align: center;
+  border: thick double #707A7E
+}
+
+ol.centered-OL {
+  display: inline-block;
+  text-align: left;
+  width: 600px;
+}
+
+div.bl {
+  position: fixed;
+  bottom: 10px;
+  left: 40px;
+  height: 20px;
+  width: 100px;
+}
+
+img.centered-img {
+  display: block;
+  margin: 0 auto;
+}
