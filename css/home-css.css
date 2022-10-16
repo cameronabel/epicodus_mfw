@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+  text-align: center;
+  font-style: oblique;
+}
+
+h2 {
+  font-weight: 100;
+}
+
+p {
+  font-family: Arial, serif;
+}
+
+img {
+  border: 5px solid red;
+}
+
+ul {
+  font-size: 18px;
+  line-height: 26px;
+}
